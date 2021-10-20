@@ -1,1 +1,1 @@
-<?php echo "<h1>integer</h1>" ?>
+<?php echo "<h2>integer</h2>"; ?>
